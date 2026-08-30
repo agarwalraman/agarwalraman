@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.ramanagarwal.dev"><img src="https://cdn.simpleicons.org/googlechrome/58A6FF" width="32" height="32" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/agarwalraman"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -46,18 +46,18 @@
 **AI & LLM**
 <p>
 <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/openai-api.svg" width="48" height="48" alt="OpenAI API" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/rag.svg" width="48" height="48" alt="RAG" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/vector-search.svg" width="48" height="48" alt="vector search" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/embeddings.svg" width="48" height="48" alt="embeddings" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/structured-extraction.svg" width="48" height="48" alt="structured extraction" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/agents.svg" width="48" height="48" alt="agents" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/openai-api.svg" width="48" height="48" alt="OpenAI API" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/rag.svg" width="48" height="48" alt="RAG" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/vector-search.svg" width="48" height="48" alt="vector search" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/embeddings.svg" width="48" height="48" alt="embeddings" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/structured-extraction.svg" width="48" height="48" alt="structured extraction" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/agents.svg" width="48" height="48" alt="agents" />
 </p>
 
 **Languages**
 <p>
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
-<img src="https://raw.githubusercontent.com/raman-airan/raman-airan/main/assets/icons/sql.svg" width="48" height="48" alt="SQL" />
+<img src="https://raw.githubusercontent.com/agarwalraman/agarwalraman/main/assets/icons/sql.svg" width="48" height="48" alt="SQL" />
 </p>
 
 More on [ramanagarwal.dev/#stack](https://www.ramanagarwal.dev/#stack).
