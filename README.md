@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/raman-airan.png" width="120" alt="Raman Agarwal" />
-</p>
-
 <h1 align="center">Raman Agarwal</h1>
 <p align="center"><sub>Senior Software Engineer, Bangalore</sub></p>
 
