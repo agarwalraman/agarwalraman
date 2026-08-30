@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ramanagarwal.dev"><img src="https://img.shields.io/badge/Portfolio-www.ramanagarwal.dev-00A8E8?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.ramanagarwal.dev">ramanagarwal.dev</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190">LinkedIn</a>
 </p>
 
 ---
@@ -63,10 +63,3 @@ AI-powered patient referral triage that classifies urgency straight from unstruc
 Migrated a monolithic employer benefits platform to event-driven microservices on AWS Lambda. Four teams now deploy independently.
 
 More on [ramanagarwal.dev](https://www.ramanagarwal.dev).
-
----
-
-<p align="center">
-  <a href="https://www.ramanagarwal.dev">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190">LinkedIn</a>
-</p>
