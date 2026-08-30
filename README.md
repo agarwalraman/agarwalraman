@@ -38,7 +38,8 @@
 
 **Data**
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" />
 <img src="https://cdn.simpleicons.org/neo4j/4581C3" width="48" height="48" alt="Neo4j" />
 </p>
 
