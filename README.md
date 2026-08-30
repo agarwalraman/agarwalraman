@@ -44,11 +44,8 @@
 Also Neo4j for graph data.
 
 **AI & LLM**
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-Also OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, and agents.
+OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, and agents.
 
 **Languages**
 <p>
