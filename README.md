@@ -39,23 +39,22 @@
 **Data**
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://img.shields.io/badge/Neo4j-21262d?style=flat-square" />
 </p>
-
-Also Neo4j for graph data.
 
 **AI & LLM**
 <p>
 <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
 </p>
-
-Also OpenAI API, RAG, vector search, embeddings, structured extraction, and agents.
+<p>
+<img src="https://img.shields.io/badge/OpenAI%20API-21262d?style=flat-square" /><img src="https://img.shields.io/badge/RAG-21262d?style=flat-square" /><img src="https://img.shields.io/badge/vector%20search-21262d?style=flat-square" /><img src="https://img.shields.io/badge/embeddings-21262d?style=flat-square" /><img src="https://img.shields.io/badge/structured%20extraction-21262d?style=flat-square" /><img src="https://img.shields.io/badge/agents-21262d?style=flat-square" />
+</p>
 
 **Languages**
 <p>
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
+<img src="https://img.shields.io/badge/SQL-21262d?style=flat-square" />
 </p>
-
-Also SQL.
 
 More on [ramanagarwal.dev/#stack](https://www.ramanagarwal.dev/#stack).
 
