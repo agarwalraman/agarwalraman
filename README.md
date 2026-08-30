@@ -45,10 +45,13 @@ Also Neo4j for graph data.
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
+Also OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, and agents.
 
-- OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, agents
-
-**Languages:** TypeScript, JavaScript, Python, SQL
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
+</p>
+Also SQL.
 
 ---
 
