@@ -57,7 +57,7 @@ Also OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, 
 
 Also SQL.
 
-Full breakdown on [ramanagarwal.dev](https://www.ramanagarwal.dev/#stack).
+More on [ramanagarwal.dev](https://www.ramanagarwal.dev/#stack).
 
 ---
 
