@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm Raman Agarwal 👋</h1>
+<h1 align="center">Raman Agarwal</h1>
 
-<h3 align="center">Senior Software Engineer — Node.js · React/Next.js · AWS · LLM Features</h3>
+<h3 align="center">Senior Software Engineer, Bangalore</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Backend%2C+frontend%2C+cloud+infra+and+LLM+features;Node.js+%2B+TypeScript+services+on+AWS;Shipping+in+healthcare%2C+fintech+and+AI+platforms" />
+  I ship products end to end: backend, frontend, cloud infrastructure, and LLM features.<br />
+  System logic, AWS, and AI plumbing are my strongest ground, proven in healthcare, fintech, and AI platforms running in production.
 </p>
 
 <p align="center">
@@ -12,12 +13,6 @@
 </p>
 
 ---
-
-### About
-
-- Senior Software Engineer based in Bangalore, India
-- Ship products end to end: backend, frontend, cloud infrastructure, and LLM features
-- Strongest ground: system logic, AWS, and AI plumbing — proven in healthcare, fintech, and AI platforms running in production
 
 ### Tech Stack
 
