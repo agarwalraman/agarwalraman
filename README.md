@@ -17,10 +17,6 @@
   <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <sub><a href="https://www.ramanagarwal.dev">ramanagarwal.dev</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190">LinkedIn</a></sub>
-</p>
-
 ---
 
 ### Tech Stack
