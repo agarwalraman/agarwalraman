@@ -10,15 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ramanagarwal.dev">ramanagarwal.dev</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190">LinkedIn</a>
+  I ship products end to end: backend, frontend, cloud infrastructure, and LLM features.<br />
+  System logic, AWS, and AI plumbing are my strongest ground,<br />
+  proven in healthcare, fintech, and AI platforms running in production.
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raman-airan/raman-airan/output/snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/raman-airan/raman-airan/output/snake.svg" />
-  </picture>
+  <a href="https://www.ramanagarwal.dev">ramanagarwal.dev</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190">LinkedIn</a>
 </p>
 
 ---
