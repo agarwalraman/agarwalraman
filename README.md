@@ -49,17 +49,17 @@
 
 ### Featured Work
 
-**XCSM — AI Governance Platform Backend**
-Greenfield Node.js/Fastify backend for EngineersMind's governed orchestration layer for enterprise AI — multi-tenant isolation, JWE auth, zero-downtime deploys.
+**XCSM, AI governance platform backend**
+Built EngineersMind's orchestration layer for enterprise AI from scratch on Node.js and Fastify. Multi-tenant isolation, JWE auth, zero-downtime deploys.
 
-**EngineersMind Website — Platform Migration**
-Migrated a legacy CRA site to Vite 8 + React 19 + TypeScript, built the test suite from zero to 3,373 cases, independently audited at 100/100.
+**EngineersMind website, platform migration**
+Migrated a legacy CRA site to Vite 8, React 19, and TypeScript. Built the test suite from zero to 3,373 cases. Independently audited at 100/100.
 
-**Mayo Clinic — CxTriage Referral System**
-AI-powered patient referral triage classifying urgency from unstructured clinical notes — ~60% less manual triage effort.
+**Mayo Clinic, CxTriage referral system**
+AI-powered patient referral triage that classifies urgency straight from unstructured clinical notes. Cut manual triage effort by about 60%.
 
-**HealthBus — Benefits Platform Migration**
-Migrated a monolithic employer benefits platform to event-driven microservices on AWS Lambda, letting 4 teams deploy independently.
+**HealthBus, benefits platform migration**
+Migrated a monolithic employer benefits platform to event-driven microservices on AWS Lambda. Four teams now deploy independently.
 
 More on [ramanagarwal.dev](https://www.ramanagarwal.dev).
 
