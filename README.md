@@ -39,9 +39,7 @@
 **Data**
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Neo4j-21262d?style=flat-square" />
+<img src="https://cdn.simpleicons.org/neo4j/4581C3" width="48" height="48" alt="Neo4j" />
 </p>
 
 **AI & LLM**
