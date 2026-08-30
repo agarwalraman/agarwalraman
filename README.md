@@ -44,8 +44,11 @@
 Also Neo4j for graph data.
 
 **AI & LLM**
+<p>
+<img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
+</p>
 
-OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, and agents.
+Also OpenAI API, RAG, vector search, embeddings, structured extraction, and agents.
 
 **Languages**
 <p>
