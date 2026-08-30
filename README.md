@@ -73,4 +73,4 @@ AI-powered patient referral triage that classifies urgency straight from unstruc
 **HealthBus, benefits platform migration**
 Migrated a monolithic employer benefits platform to event-driven microservices on AWS Lambda. Four teams now deploy independently.
 
-More on [ramanagarwal.dev](https://www.ramanagarwal.dev).
+More on [ramanagarwal.dev](https://www.ramanagarwal.dev/#projects).
