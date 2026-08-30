@@ -57,7 +57,7 @@ Also OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, 
 
 Also SQL.
 
-More on [ramanagarwal.dev](https://www.ramanagarwal.dev/#stack).
+More on [ramanagarwal.dev/#stack](https://www.ramanagarwal.dev/#stack).
 
 ---
 
@@ -75,7 +75,7 @@ AI-powered patient referral triage that classifies urgency straight from unstruc
 **HealthBus, benefits platform migration**
 Migrated a monolithic employer benefits platform to event-driven microservices on AWS Lambda. Four teams now deploy independently.
 
-More on [ramanagarwal.dev](https://www.ramanagarwal.dev/#projects).
+More on [ramanagarwal.dev/#projects](https://www.ramanagarwal.dev/#projects).
 
 ---
 
