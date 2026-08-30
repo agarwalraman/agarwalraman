@@ -6,9 +6,7 @@
 <p align="center"><sub>Senior Software Engineer, Bangalore</sub></p>
 
 <p align="center">
-  I ship products end to end: backend, frontend, cloud infrastructure, and LLM features.<br />
-  System logic, AWS, and AI plumbing are my strongest ground,<br />
-  proven in healthcare, fintech, and AI platforms running in production.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend%2C+frontend%2C+cloud+infra%2C+and+LLM+features;Node.js+%2B+TypeScript+%2B+React%2FNext.js+%2B+AWS;Shipping+in+healthcare%2C+fintech%2C+and+AI+platforms" alt="typing animation" />
 </p>
 
 <p align="center">
