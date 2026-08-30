@@ -33,12 +33,13 @@
 
 **Data**
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,neo4j" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
+Also Neo4j for graph data.
 
 **AI & LLM**
 <p>
-<img src="https://skillicons.dev/icons?i=openai,python" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 - OpenAI API, Claude, RAG, vector search, embeddings, structured extraction, agents
@@ -62,15 +63,6 @@ AI-powered patient referral triage that classifies urgency straight from unstruc
 Migrated a monolithic employer benefits platform to event-driven microservices on AWS Lambda. Four teams now deploy independently.
 
 More on [ramanagarwal.dev](https://www.ramanagarwal.dev).
-
----
-
-### GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raman-airan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raman-airan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
