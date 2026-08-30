@@ -39,6 +39,8 @@
 **Data**
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/Neo4j-21262d?style=flat-square" />
 </p>
 
@@ -53,6 +55,8 @@
 **Languages**
 <p>
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python" />
+</p>
+<p>
 <img src="https://img.shields.io/badge/SQL-21262d?style=flat-square" />
 </p>
 
