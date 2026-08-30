@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ramanagarwal.dev">ramanagarwal.dev</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190">LinkedIn</a>
+  <a href="https://www.ramanagarwal.dev"><img src="https://img.shields.io/badge/-ramanagarwal.dev-181717?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>
+  <a href="https://www.linkedin.com/in/raman-agarwal-6517a1190"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 </p>
 
 ---
